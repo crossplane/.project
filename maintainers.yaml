@@ -1,0 +1,96 @@
+# Maintainer roster for Crossplane
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "crossplane"
+    org: "crossplane"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - bassam
+          - uzair
+          - gotwarlost
+          - vishalanarase
+          - AndresNico
+          - alessandro
+          - 3pings
+          - MisterMX
+          - stevendborrelli
+          - maximilianbraun
+          - mbbush
+          - erhancagirici
+          - tampakrap
+          - cychiang
+          - negz
+          - pravindahal
+          - atzedevries
+          - sdischer-sap
+          - jan-di
+          - fahedouch
+          - jeanduplessis
+          - fernandezcuesta
+          - xunholy
+          - anagarlau
+          - TylerGillson
+          - thephred
+          - jograca
+          - bobh66
+          - haarchri
+          - xiaozhu36
+          - hellertang
+          - dalton-hill-0
+          - christophrj
+          - kkendzia
+          - akesser
+          - ggkhrmv
+          - d-honeybadger
+          - mirzakopic
+          - iainlane
+          - jonasz-lasut
+          - Henni
+          - lindblombr
+          - Breee
+          - plumbis
+          - chlunde
+          - saamalik
+          - hasheddan
+          - dinesh
+          - mergenci
+          - dorroddorrod
+          - SivaanandM
+          - Mitsuwa
+          - jcogilvie
+          - muvaf
+          - Duologic
+          - jvrplmlmn
+          - peefy
+          - yordis
+          - reedjosh
+          - henrysachs
+          - kisahm
+          - vishwanaths
+          - Avatos
+          - phisco
+          - humoflife
+          - arielsepton
+          - tr0njavolta
+          - markussiebert
+          - lsviben
+          - jastang
+          - maximiliantech
+          - harsh
+          - tongyiming
+          - ytsarev
+          - turkenf
+          - ulucinar
+          - jbw976
+          - janwillies
+          - jdotw
+          - adamwg
+          - sergenyalcin
+          - morningspace
+          - dariozachow
+          - zong-zhe
+          - jcooklin
