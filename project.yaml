@@ -26,7 +26,7 @@ repositories:
 
 website: "https://crossplane.io/"
 
-artwork: "https://landscape.cncf.io/logos/crossplane.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/crossplane"
 
 adopters:
   path: "https://github.com/crossplane/crossplane/blob/main/ADOPTERS.md"
