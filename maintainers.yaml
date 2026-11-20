@@ -113,6 +113,10 @@ maintainers:
           - smoehrle
           - teeverr
           - xiahuai
+          - bisbeb
+          - dzmoore
+          - ferim4
+          - ZahraAssdizadeh
       - name: "servicedesk" # This team grants access to the CNCF Jira Service Desk seats, which are limited. Currently, this is core maintainers and steering committee.
         members:
           - bassam
